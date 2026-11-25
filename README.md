@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Olá,%20eu%20sou%20JOÃO%20VICTOR!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20programação%20%7C%20Em%20constante%20evolução&descSize=15&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Olá,%20eu%20me%20chamo%20João%20Victor!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20programação%20%7C%20Em%20constante%20evolução&descSize=15&descAlignY=65" width="100%" />
 
 </div>
 
