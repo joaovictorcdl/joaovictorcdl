@@ -52,7 +52,7 @@ Aqui você encontra alguns dos projetos que desenvolvo durante minha jornada de 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovictorcdl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovictorcdl&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcdl&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" />
 
